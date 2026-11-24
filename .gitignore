@@ -179,3 +179,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+Car_Testat_Drehung.ipynb
+Car_Testat_Kreis.ipynb
+Car_Testat_Polynom.ipynb
+
